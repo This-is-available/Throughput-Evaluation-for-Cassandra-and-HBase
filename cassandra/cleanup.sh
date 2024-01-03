@@ -1,0 +1,1 @@
+cd ~/apache-cassandra-3.11.5-src && ./bin/nodetool stopdaemon && rm -r ./data
